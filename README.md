@@ -6,13 +6,19 @@ This repo is to keep track the things explored in the journey of data science...
 # Cloud
 
 | Content                  | Link                                                                          |
-|--------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
+|--------------------------------------------------------------------------------|-----------------------------------------------------------------------------------| 
+| AWS Certified: AWS ML Specialty                                          |  [click here](https://github.com/Akshaykumarcp/Cloud/blob/main/AWS/MLS-C01%20Machine%20Learning%20Specialty/AWS%20Certified%20Machine%20Learning%20-%20Specialty%20certificate.pdf)   |
 | AWS Certified: AWS Cloud Practitioner                                          |  [click here](https://github.com/Akshaykumarcp/Cloud/blob/main/AWS/cloud%20practitioner/AWS%20Certified%20Cloud%20Practitioner%20certificate.pdf)   |
 | Microsoft Certified: AI-900 Microsoft Azure AI Fundamentals                                           | [click here](https://github.com/Akshaykumarcp/Cloud/blob/main/microsoft/ai-900/Certifications%20-%20akshaykumarcp-1501%20_%20Microsoft%20Docs.pdf)   
 | Microsoft Certified: AI-102 Microsoft Azure AI Engineer Associate                                           | [click here](https://github.com/Akshaykumarcp/Cloud/blob/main/microsoft/ai-102/Certifications%20-%20akshaykumarcp-1501%20_%20Microsoft%20Docs%20AI%20Engineer%20Associate.pdf)   |
 | Dataiku Core Designer Certificate                                          | [click here](https://github.com/Akshaykumarcp/akshaykumarcp.github.io/blob/master/doc/certificate-q7qz85ytn6ib-1657973356%20CD.pdf)   |
 | Dataiku ML Practitioner Certificate                                       | [click here](https://github.com/Akshaykumarcp/akshaykumarcp.github.io/blob/master/doc/certificate-jgebrsy3i94c-1658144101%20MLP.pdf)   |
 
+# Generative AI
+
+| Repo                                                                 |  Link                                                                          |
+|--------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
+| Gen AI                                          | [click here](https://github.com/Akshaykumarcp/GenerativeAI)   |
 
 # Machine Learning 
 
